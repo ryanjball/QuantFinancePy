@@ -48,7 +48,7 @@ for m in range(0, mc_sims):
 plt.plot(portfolio_sims)
 plt.ylabel('Portfolio Value ($)')
 plt.xlabel('Days')
-plt.title('MC simulation of a stock portfolio')
+plt.title('MC simulation of a stock portfolio 100x')
 plt.show()
-print('done')
+print('Done!! Monte Carlo Simulated')
 
