@@ -50,4 +50,5 @@ plt.ylabel('Portfolio Value ($)')
 plt.xlabel('Days')
 plt.title('MC simulation of a stock portfolio')
 plt.show()
+print('done')
 
